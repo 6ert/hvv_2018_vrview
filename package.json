@@ -21,7 +21,7 @@
     "eslint-config-google": "^0.9.1",
     "rollup": "^0.37.2",
     "uglify-es": "^3.0.24",
-    "watchify": "^3.8.0"
+    "watchify": "^3.11.1"
   },
   "scripts": {
     "_mkdir": "mkdir -p build",
